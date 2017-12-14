@@ -1,3 +1,4 @@
 サルでもわかるGitコマンド
 add 変更をindexに登録する
 commit indexの状態を記録する
+pull リモートリポジトリの内容を取得する
